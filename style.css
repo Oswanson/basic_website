@@ -1,9 +1,9 @@
 
 h2{color:green}
-h1{background-color: rgba(128, 202, 115, 0.525);}
+h1{background-color: rgba(128, 202, 115, 0.182);}
 .fancy{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: xxx-large;
 }
 h3{font-family: cursive;}
-:any-link{background-color: color-mix(in srgb, color percentage, color percentage);}
+:any-link{color: darkblue;}
