@@ -1,9 +1,9 @@
 
-h2{color:green}
-h1{background-color: rgba(128, 202, 115, 0.182);}
-.fancy{
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+p{font-family: 'Times New Roman';}
+.title{
+  font-family: Impact, Haettenschweiler,;
 font-size: xxx-large;
 }
 h3{font-family: cursive;}
 :any-link{color: darkblue;}
+body{background-color: lightblue;}
