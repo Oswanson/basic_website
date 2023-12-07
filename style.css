@@ -7,3 +7,5 @@ font-size: xxx-large;
 h3{font-family: cursive;}
 :any-link{color: darkblue;}
 body{background-color: lightblue;}
+
+p.dashed {border-style: dashed;}
